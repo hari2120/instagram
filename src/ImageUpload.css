@@ -1,0 +1,28 @@
+
+
+.imageUpload{
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 20px;
+    background: white;
+    height: 150px;
+
+}
+.inputfields{
+    display: flex;
+    flex-direction: column;
+}
+.inputfields input{
+    margin: 5px;
+    padding: 5px;
+    font-size: 13px;
+    border: 1px solid lightgray;
+    border-radius: 2px;
+}
+.imageupload__progress{
+    width: 100%;
+}
+.upload__button{
+    position: absolute;
+    right: 20px;
+}
